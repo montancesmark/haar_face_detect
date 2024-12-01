@@ -27,11 +27,11 @@ pip install opencv-python
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/face-detection-opencv.git
+git clone https://github.com/montancesmark/haar_face_detect
 ```
 Navigate into the project directory:
 ```bash
-cd face-detection-opencv
+cd your_project_directory
 ```
 Install the required dependencies (OpenCV):
 ```bash
@@ -40,7 +40,7 @@ pip install opencv-python
 ## Usage
 Run the Python script to start the webcam and face detection:
 ```bash
-python face_detection.py
+python main.py
 ```
 ## The program will open a window with the following feeds:
 
