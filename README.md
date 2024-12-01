@@ -1,5 +1,8 @@
 # Real-Time Face Detection using OpenCV
 
+![image](https://github.com/user-attachments/assets/8809c457-d10d-44c8-a959-a2a9dd4e912a)
+
+
 This project demonstrates real-time face detection using OpenCV and Haar Cascade Classifiers, utilizing your webcam. The program captures video frames, applies basic image processing (such as grayscale conversion and binary thresholding), and detects faces in real-time. It then displays the original feed, grayscale feed, black-and-white feed, and a face-detection overlay.
 
 ## Features
